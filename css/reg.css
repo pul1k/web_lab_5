@@ -1,0 +1,25 @@
+body{
+  background-image: url('img/pic1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+table{
+  margin: auto;
+}
+.border_table{
+  background-color: beige;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 15px; 
+}
+.bordered-table th,
+.bordered-table td {
+  padding: 5px;
+  border: 1px solid #000; 
+  padding: 8px; 
+}
+b{
+  font-size: 18px;
+}
